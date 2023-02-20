@@ -1,0 +1,10 @@
+def u():
+    return 'https://dev-supp-mnt.smec-cn.com/app/'
+def ac():
+    return '//*[@id="app"]/div[1]/div/div/div/div/div[2]/div/form/div[1]/div/div[1]/input'
+def pw():
+    return '//*[@id="app"]/div[1]/div/div/div/div/div[2]/div/form/div[2]/div/div[1]/div/input'
+def sm():
+    return '//*[@id="app"]/div[1]/div/div/div/div/div[2]/div/form/button'
+def wd():
+    return '/usr/local/bin/chromedriver'
